@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chokidar": "^3.5.3",
+    "fs-extra": "^10.1.0",
     "node-fetch": "^2.6.7"
   }
 }
